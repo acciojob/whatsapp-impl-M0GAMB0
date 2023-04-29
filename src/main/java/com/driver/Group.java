@@ -1,7 +1,6 @@
 package com.driver;
 
 public class Group {
-    privpackage com.driver;
 
 public class Group {
     private String name;
